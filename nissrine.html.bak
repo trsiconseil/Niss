@@ -234,8 +234,8 @@
                 <div class="about-detail">
                   <h4>Infos sur moi</h4>
 				  <ul>
-				  <li>Je suis actuellement en terminale au lycée St Laurent La Paix Notre Dame.</li>
-				  <li>j'ai choisi les spécialités  NSI (Numérique et science informatique), MATHS et  AMC (Anglais monde contemporain) que j'ai abandonné en terminale.</li>
+				  <li>Je suis actuellement en terminale au lycée St Laurant La Paix Notre Dame.</li>
+				  <li>j'ai choisi les spécialités  NSI (Numérique et science informatique), MATHS et  AMC (Anglais monde contemporain) que j'ai abandonnée en terminale.</li>
 				  </ul>
 				</div>
 			  </div>
@@ -244,7 +244,7 @@
                 <div class="about-detail"> 
 				 <h4>Projets Web</h4>
                   <ul>
-                  <li>Création d'un mini site Web en HTML et JavaScript. J'ai choisi de réaliser un site sur differentes destinations, voyages et sejours mis à disposition.</li> 
+                  <li>Création d'un mini site Web en HTML et JavaScript. J'ai choisi de realiser un site sur differentes destinations, voyages et sejours mis à disposition.</li> 
 				  <li> Création d'un tableau périodique des éléments chimiques.</li>
 				  <li> Création d'un mini-site web sur des cartes MTG, où l'on retrouve des informations sur celles-ci, telles que le prix, le nom de l'édition, etc...</li>
 				  <li> Création d'un site de jeux.</li>
@@ -258,9 +258,9 @@
                 <div class="about-detail">
                   <h4>Concours </h4>
                   <ul>
-                  <li>Participation à des concours castor</li>
+                  <li>Participation a des concours castor</li>
                   <li>Participation au concours algorea</li>
-				  <li>Participation au challenge cybersécurité du site CTF perce le frond numérique </li>
+				  <li>Participation au challenge cybersecurite du site CTF perce le frond numérique </li>
                   </ul>    
                 </div>
               </div>
@@ -319,23 +319,23 @@
                         <div class="card-body">
 							<h6 class="title text-danger">2025-2026</h6>	
                             <h5>Permis et code </h5>
-                            <P class="subtitle"> J'ai obtenu mon code ainsi  </P>
+                            <P class="subtitle"> J'ai obtenue mon code ainsi  </P>
                             <hr>
 							<h6 class="title text-danger">2024 - 2025</h6>
                             <h5>Bac de français </h5>
-                            <P class="subtitle"> J'ai obtenu mon bac de français </P>
+                            <P class="subtitle"> J'ai obtenue mon bac de français </P>
                             <hr>
                             <h6 class="title text-danger">2022 - 2023</h6>
-                            <h5>Brevet des collèges </h5>
-                            <P class="subtitle"> J'ai obtenu la mention très bien au brevet des collèges </P>
+                            <h5>Brevet des collège </h5>
+                            <P class="subtitle"> J'ai obtenue la mention très bien au brevet des collège </P>
                             <hr>
 							<h6 class="title text-danger">2021 - 2023</h6>
 							<h5>ASSR </h5>
-                            <P class="subtitle"> J'ai obtenu mes deux ASSR (ASSR en 4e et ASSR2 en 3e) </P>
+                            <P class="subtitle"> J'ai obtenue mes deux ASSR (ASSR en 4e et ASSR2 en 3e) </P>
                             <hr>
                             <h6 class="title text-danger">avant 2020 </h6>
-                            <h5> Certifications et diplômes complémentaires </h5>
-                            <P class="subtitle"> J'ai obtenu les diplômes du savoir nager, rouler à vélo, et piéton.</P>
+                            <h5> Certifications et diplômes complementaires </h5>
+                            <P class="subtitle"> J'ai obtenue les diplômes du savoir nager, rouler à vélo, et pieton.</P>
                         </div>
                       </div>
                     </div>
@@ -415,7 +415,7 @@
             <li data-filter="all" class="filter">All</li>
             <li data-filter=".cool-websites" class="filter"><i class="fab fa-html5"></i> Sites WEB / Tableau Périodique</li>
             <li data-filter=".sites-js" class="filter"><i class="fab fa-js-square"></i> JS</li>
-            <li data-filter=".video" class="filter"><i class="fas fa-video"></i> Vidéo</li>
+            <li data-filter=".video" class="filter"><i class="fas fa-video"></i> Video</li>
           </ul>
         </div>
 
@@ -494,7 +494,7 @@
     <section id="info" class="dark">
       <header class="title">
         <h2>Compétences</h2>
-        <p>Les compétences que j'ai développé ici !</p>
+        <p>Les compétences que j'ai développées ici !</p>
       </header>
 
       <div class="container experties">
